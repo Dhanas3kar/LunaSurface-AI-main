@@ -245,8 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Project Maintainer**: Your Name
-- **Email**: your.email@domain.com
 - **Issues**: [GitHub Issues](https://github.com/yourusername/LunaSurface-AI/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/LunaSurface-AI/discussions)
 
